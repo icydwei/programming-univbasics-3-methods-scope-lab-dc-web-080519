@@ -15,5 +15,5 @@ end
 
 def any_phrase(phrase)
   anyphrase = "Do A Barrell Roll!"
-  p anyphrase
+  print anyphrase
 end  

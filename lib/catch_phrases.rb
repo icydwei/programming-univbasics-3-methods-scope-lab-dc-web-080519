@@ -13,3 +13,5 @@ def link
   puts linkmessage
 end
 
+def any_phrase(phrase)
+  
